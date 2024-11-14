@@ -2,7 +2,7 @@
 
 ## Description
 
-CRA template with typescript, react, styled-components, eslint, prettier, husky
+CRA template with html, css, js, eslint, prettier, husky
 
 ## Unpacking
 
