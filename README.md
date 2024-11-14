@@ -1,19 +1,22 @@
 # cra-template-html-css-js-l
 
 ## Description
+
 CRA template with typescript, react, styled-components, eslint, prettier, husky
 
 ## Unpacking
+
 ```
 npx create-react-app [your project name] --template cra-template-ts-react-l
 ```
 
 ## Structure
+
 ```
 .
 ├── .husky/
 │   └── pre-commit
-│ 
+│
 ├── public/
 │   └── index.html
 │
@@ -26,7 +29,7 @@ npx create-react-app [your project name] --template cra-template-ts-react-l
 │   └── index.tsx
 │
 ├── tsconfig.json
-├── .eslintrc
+├── .eslint.config.js
 ├── .prettierrc
 ├── .gitignore
 └── README.md
