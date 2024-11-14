@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-html-css-js-l",
+  "version": "1.0.0",
+  "description": "CRA template with html, css, js, eslint, prettier, husky",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lehano-A/cra-template-html-css-js-l"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "keywords": [
+    "create-react-app template html css js",
+    "cra template html css js",
+    "template html css js"
+  ],
+  "author": "Lehano <Lehano.A@yandex.ru> (https://lehano.ru)",
+  "homepage": "https://github.com/Lehano-A/cra-template-html-css-js-l#readme",
+  "license": "ISC"
+}
